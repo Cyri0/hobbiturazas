@@ -1,0 +1,10 @@
+manage.py
+db.sqlite3
+backend
+migrations
+__pycache__
+images
+bin
+lib
+lib64
+share
